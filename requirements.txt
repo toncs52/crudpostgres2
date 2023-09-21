@@ -1,0 +1,2 @@
+streamlit==1.23.1
+psycopg2==2.9.7
